@@ -11,7 +11,7 @@
 
 <p align="center">
   <a href="https://www.credly.com/badges/b0f97587-ba8f-4858-8906-57a4555e4404/public_url">
-    <img src="BADGE_IMAGE_URL" alt="Google IT Support Badge" width="180"/>
+    <img src="google-it-support-professional-certificate-v2.png" alt="Google IT Support Badge" width="180"/>
   </a>
 </p>
 
