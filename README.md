@@ -1,5 +1,5 @@
 # 💫 About Me:
- I'm currently working on Macro Wiring Technologies Inc. as a Freelance Developer<br>I'm a third year college BSIT Student at Cavite State University Naic Campus<br>Fun fact! I'm also a public servant - a Sangguniang Kabataan Chairperson at Brgy San Jose Ternate ##
+ I'm a third year college BSIT Student at Cavite State University Naic Campus<br>Fun fact! I'm also a public servant - a Sangguniang Kabataan Chairperson at Brgy San Jose Ternate ##
 
 
 ## 🌐 Socials:
